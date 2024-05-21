@@ -1,0 +1,134 @@
+body {
+    margin: 10px 8px;
+    background-color: black;
+    color: aqua;
+    scroll-behavior: smooth;
+}
+
+.div1 {
+    border: 0px solid red;
+}
+.div1 h1 {
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+.div2 {
+    border: 2px solid white;
+    margin-top: 20px;
+}
+
+.div2 marquee {
+    color: aqua;
+    font-size: 30px;
+}
+
+.div3 {
+    margin-top: 20px;
+    border: 2px solid white;
+}
+.div3 ul li {
+    font-size: 30px;
+    text-align: justify;
+}
+
+.div4 {
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.div4 .ph {
+    font-size: 30px;
+}
+
+.div4 .phone::placeholder {
+    color: green;
+    text-decoration: red;
+    background-color: transparent;
+    text-align: center;
+}
+.div4 .em {
+    font-size: 30px;
+}
+.div4 .email::placeholder {
+    color: green;
+    text-decoration: red;
+    background-color: transparent;
+    text-align: center;
+}
+.div4 .pass {
+    font-size: 30px;
+}
+.div4 .password::placeholder {
+    color: green;
+    text-decoration: red;
+    background-color: transparent;
+    text-align: center;
+}
+.div4 .login {
+    padding: 10px 30px;
+    border: 2px solid aqua;
+    border-radius: 6px;
+    background-color: aqua;
+    color: black;
+    font-size: 20px;
+}
+
+.powered-by p {
+    margin-top: 150px;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    color: red;
+    
+}
+.powered-by p span {
+    color: aqua;
+    font-size: 45px;
+    font-style: normal;
+}
+.other h6 {
+    font-size: 30px;
+    text-align: center;
+    color: gold;
+    font-style: italic;
+}
+.other img {
+    width: 800px;
+    height: auto;
+    margin-left: 80px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+form input {
+    text-align: justify;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+/* process.html*/
+
+
+
+
+h4 {
+    text-align: center;
+    font-size: 45px;
+    font-style: italic;
+    margin-top: 500px;
+}
+
+h4 p {
+    font-size: 30px;
+    color: gold;
+    font-style: normal;
+}
